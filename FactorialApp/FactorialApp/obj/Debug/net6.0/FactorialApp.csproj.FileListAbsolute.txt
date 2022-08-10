@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\bin\Debug\net6.0\FactorialApp.exe
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\bin\Debug\net6.0\FactorialApp.deps.json
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\bin\Debug\net6.0\FactorialApp.runtimeconfig.json
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\bin\Debug\net6.0\FactorialApp.dll
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\bin\Debug\net6.0\FactorialApp.pdb
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\obj\Debug\net6.0\FactorialApp.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\obj\Debug\net6.0\FactorialApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\obj\Debug\net6.0\FactorialApp.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\obj\Debug\net6.0\FactorialApp.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\obj\Debug\net6.0\FactorialApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\obj\Debug\net6.0\FactorialApp.dll
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\obj\Debug\net6.0\refint\FactorialApp.dll
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\obj\Debug\net6.0\FactorialApp.pdb
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\obj\Debug\net6.0\FactorialApp.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Summer2022\cloud_computing\se-cloud-2021-2022\Source\MyWork\Excercise2_Docker\FactorialApp\FactorialApp\obj\Debug\net6.0\ref\FactorialApp.dll

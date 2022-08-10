@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J294KuhH8KBuwtc/TRo/d6NgsINnZjQxa3bwJYYm+DYLljgu942IhFJ+MXeKQKUTUpyOq5spD4GoAk8dRqT5zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Summer2022\\cloud_computing\\se-cloud-2021-2022\\Source\\MyWork\\Excercise2_Docker\\FactorialApp\\FactorialApp\\FactorialApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
